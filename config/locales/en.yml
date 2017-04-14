@@ -20,4 +20,24 @@
 # available at http://guides.rubyonrails.org/i18n.html.
 
 en:
-  hello: "Hello world"
+  static-pages:
+    #home:
+  sample: "Sampe App"
+  sampleapp: "sample application."
+  thisis: "This is the home page for the"
+
+    #help
+  help: "Help"
+  gethelp: "Get help on the Ruby on Rails Tutorial at the"
+  toget: "To get help on this sample app, see the"
+  book: "book"  
+
+    #about
+  about: "About"
+  the: "The"
+  isa: "is a"
+  and: "and"
+  toteach: "to teach web development with"
+  thisis: "This is the sample application for the tutorial"
+    
+
