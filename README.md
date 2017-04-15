@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Ruby on Rails Tutorial sample application
 
 This is the sample application for
@@ -40,6 +39,16 @@ $ rails server
 
 For more information, see the
 [*Ruby on Rails Tutorial* book](http://www.railstutorial.org/book).
-=======
+
 # sample_app
->>>>>>> ef0012b... Initial commit
+
+If the test suite passes, you'll be ready to run the app in a local server:
+
+```
+$ rails server
+```
+
+For more information, see the
+[*Ruby on Rails Tutorial* book](http://www.railstutorial.org/book).
+
+# sample_app
