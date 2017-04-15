@@ -39,6 +39,7 @@ $ rails server
 
 For more information, see the
 [*Ruby on Rails Tutorial* book](http://www.railstutorial.org/book).
+
 # sample_app
 
 If the test suite passes, you'll be ready to run the app in a local server:
